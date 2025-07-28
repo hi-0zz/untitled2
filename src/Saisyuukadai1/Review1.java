@@ -1,4 +1,4 @@
-public class Review1 {
+ public class Review1 {
     public static void main(String[] args) {
         System.out.print("こんにちは\n");
         System.out.println("今日の天気は" + "\t晴れです。");
